@@ -294,7 +294,7 @@ section.skills .skills-descrip .card-skills .card p {
 /* section contact */
 section.contact {
   width: 100%;
-  height: 100vh;
+  height: auto;
   padding: 0.5rem 2rem;
 
   display: grid;
